@@ -1,0 +1,11 @@
+{
+  "name": "chat-stream",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/main.js",
+  "dependencies": {
+    "@ai-sdk/openai": "^4.0.0",
+    "ai": "^7.0.0"
+  }
+}
